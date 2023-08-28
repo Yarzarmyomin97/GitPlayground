@@ -28,3 +28,4 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 ## Git Rebase vs Git Merge
 
 - [Git Rebase vs Git Merge](https://phoenixnap.com/kb/git-rebase-vs-merge)
+- Update Readme.md
