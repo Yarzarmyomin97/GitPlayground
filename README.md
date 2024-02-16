@@ -28,3 +28,7 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 ## Git Rebase vs Git Merge
 
 - [Git Rebase vs Git Merge](https://phoenixnap.com/kb/git-rebase-vs-merge)
+
+## Contribute to someone's repository
+
+- [Contribute to someone's repository](https://kbroman.org/github_tutorial/pages/fork.html)
